@@ -141,4 +141,4 @@ This project is not deployed online because free hosting plans do not support it
 ![Create Task 2](screenshots/05-task-create-response.png)
 
 ### List Tasks (Pagination)
-![List Tasks](screenshots/06-tasks-get-api-tasks.png)
+![List Tasks](screenshots/06-tasks-GET-api-tasks.png)
