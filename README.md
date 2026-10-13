@@ -122,6 +122,23 @@ task_management_project/
 
 This project is for personal/educational and portfolio use.
 
+
 ## Live Demo
 
-*(Add your deployed PythonAnywhere link here once the project is live, e.g. `https://yourusername.pythonanywhere.com/api/docs/`)*
+This project is not deployed online because free hosting plans do not support it. Instead, here are screenshots of the API running locally and tested through Swagger UI.
+
+### Swagger UI Overview
+![Swagger Overview](screenshots/01-swagger-overview.png)
+
+### User Registration
+![Register Response](screenshots/02-register-response.png)
+
+### Login (JWT Token)
+![Login JWT Token](screenshots/03-login-jwt-token.png)
+
+### Create Task
+![Create Task 1](screenshots/04-task-create-response.png)
+![Create Task 2](screenshots/05-task-create-response.png)
+
+### List Tasks (Pagination)
+![List Tasks](screenshots/06-tasks-get-api-tasks.png)
